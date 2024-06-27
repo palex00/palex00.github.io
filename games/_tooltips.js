@@ -146,6 +146,14 @@ const tooltips = {
         card_key:   "Silph Co.\nCard Key",
         lift_key:   "Rocket's Hideout\nLift Key",
         secret_key: "Blaine's Gym\nSecret Key",
+	
+	/* RB */
+		hideout_key: "Hideout Key",
+		safaripass: "Safari Pass",
+		itemfinder: "Item Finder",
+		townmap: "Town Map",
+		coincase: "Coin Case",
+		helix: "Fossil",
     },
 
     frlg_lorelei: "Elite 4\nLorelei",
