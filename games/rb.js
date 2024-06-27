@@ -38,7 +38,7 @@ let rb = {
         department_elevator: {x: 87 , y: 40, w: 8, h: 8,  name: "Department Store\nElevator"                                 },
         // condominiums:     {x: 94,  y: 40,  w: 8,  h: 8,  name: "Celadon Condiminums"                                         },
         cinnabar_mansion: {x: 16,  y: 112, w: 8,  h: 8,  name: "Cinnabar Mansion"                                            },
-        mt_moon:          {x: 64,  y: 24,  w: 8,  h: 8,  name: "Mt. Moon\nRoute 4",             link_name: "Mt. Moon"        },
+        mt_moon:          {x: 64,  y: 24,  w: 8,  h: 8,  name: "Mt. Moon",             link_name: "Mt. Moon"        },
         rocket_hideout:   {x: 80,  y: 56,  w: 8,  h: 8,  name: "Rocket Hideout"                                              },
         rocket_elevator:  {x: 87,  y: 56,  w: 8,  h: 8,  name: "Rocket Hideout\nElevator"                                    },
         seafoam_islands:  {x: 56,  y: 112, w: 8,  h: 8,  name: "Seafoam Islands\nRoute 20",     link_name: "Seafoam Islands" },
@@ -611,7 +611,7 @@ let rb = {
         [["boulder_badge", 0], ["cascade_badge", 0], ["thunder_badge", 0], ["rainbow_badge", 0], ["soul_badge", 0], ["marsh_badge",  0], ["volcano_badge", 0], ["earth_badge",  0]],
         [["frlg_bush",   0], ["frlg_surf",    0], ["frlg_boulder", 0], ["frlg_darkness", 0], ["bike_needed", 0], ["bike_voucher",  0], ["parcel",        0], ["poke_flute", 0],],
         [["card_key",    0], ["secret_key",      0], ["lift_key",    0], ["plant_key",     0], ["mansion_key",0], ["hideout_key", 0], ["safaripass", 0], ["tea",          0]],
-		[["gold_teeth",  0], ["silph_scope",   0], ["ss_ticket",    0], ["itemfinder",    0], ["coincase",    0], ["townmap",    0], ["helix",    0]],
+		[["gold_teeth",  0], ["silph_scope",   0], ["ss_ticket",    0], ["itemfinder",    0], ["coincase",    0], ["townmap",    0], ["helix",    0], ["frlg_rival", 0]],
         
 
     ],
