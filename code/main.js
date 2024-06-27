@@ -82,7 +82,7 @@ function init() {
 
     // Get last loaded game and load it
     let last_game = localStorage.getItem(CACHE.GAME_LOADED);
-    game = emerald;
+    game = rb;
     if (last_game && games[last_game]) {
         game = games[last_game];
     }
