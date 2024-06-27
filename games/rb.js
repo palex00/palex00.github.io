@@ -99,7 +99,7 @@ let rb = {
         },
         cerulean: {
             bike:                                              {x: 394, y: 439 },
-            mart:                                              {x: 586, y: 865 },
+            mart:                                              {x: 586, y: 439 },
             gym:                                               {x: 666, y: 343 },
             center:                                            {x: 490, y: 311 },
             house1:                                            {x: 394, y: 279 },
