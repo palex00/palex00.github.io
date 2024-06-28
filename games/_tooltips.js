@@ -147,15 +147,23 @@ const tooltips = {
         lift_key:   "Rocket's Hideout\nLift Key",
         secret_key: "Blaine's Gym\nSecret Key",
 	
+
+    },
 	/* RB */
+	rb: {
+	frlg_rival: "Indigo Plateau",
+    card_key: "Card Key",
+	
+	},
 		hideout_key: "Hideout Key",
 		safaripass: "Safari Pass",
 		itemfinder: "Item Finder",
 		townmap: "Town Map",
 		coincase: "Coin Case",
 		helix: "Fossil",
-    },
-
+		pokedoll: "Poké Doll",
+		trade: "Trade",
+		
     frlg_lorelei: "Elite 4\nLorelei",
     frlg_bruno:   "Elite 4\nBruno",
     frlg_agatha:  "Elite 4\nAgatha",
