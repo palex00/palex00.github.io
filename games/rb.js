@@ -147,7 +147,7 @@ let rb = {
             f1_stairs1:                                        {x: 96, y: 168,  name: "Cinnabar Mansion 1F" },
             f1_stairs2:                                        {x: 352, y: 376, name: "Cinnabar Mansion 1F" },
             f2_stairsleft:                                     {x: 584, y: 168, name: "Cinnabar Mansion 2F" },
-            f2_stairsright:                                    {x: 616, y: 168, name: "Cinnabar Mansion 2F" },
+            f2_stairsright:                                    {x: 616, y: 198, name: "Cinnabar Mansion 2F" },
             f2_stairstop:                                      {x: 600, y: 24,  name: "Cinnabar Mansion 2F" },
             f2_stairsfareast:                                  {x: 904, y: 232, name: "Cinnabar Mansion 2F" },
             f3_stairsnorth:                                    {x: 112, y: 495, name: "Cinnabar Mansion 3F" },
