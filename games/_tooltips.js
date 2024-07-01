@@ -153,8 +153,12 @@ const tooltips = {
 	rb: {
 	frlg_rival: "Indigo Plateau",
     card_key: "Card Key",
-	
 	},
+	rb_decoupled: {
+	frlg_rival: "Indigo Plateau",
+    card_key: "Card Key",
+	},
+	    fuji: "Fuji's House",
 		hideout_key: "Hideout Key",
 		safaripass: "Safari Pass",
 		itemfinder: "Item Finder",
