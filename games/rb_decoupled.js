@@ -2,7 +2,7 @@ let rb_decoupled = {
     debug: false,
     name: "rb_decoupled",
     folder: "rb_decoupled",
-    start_location: "silph_3",
+    start_location: "readme",
     font: "GameBoy_Font",
     font_size: "22px",
 
