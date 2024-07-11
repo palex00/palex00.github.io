@@ -318,7 +318,7 @@ let rb = {
             cornersouth:                                       {x: 57, y: 859,  name: "Game Corner" },
             cornernorth:                                       {x: 89, y: 683,  name: "Game Corner" },
             b1fleft:                                           {x: 282, y: 108, name: "Rocket Hideout B1F" },
-            b1fright:                                          {x: 314, y: 108, name: "Rocket Hideout B1F" },
+            b1fright:                                          {x: 314, y: 156, name: "Rocket Hideout B1F" },
             b1fstairs:                                         {x: 282, y: 460, name: "Rocket Hideout B1F" },
             b1felevator:                                       {x: 338, y: 380, name: "Rocket Hideout B1F" },
             b2fright:                                          {x: 874, y: 249, name: "Rocket Hideout B2F" },
