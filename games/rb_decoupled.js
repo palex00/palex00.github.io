@@ -32,7 +32,7 @@ let rb_decoupled = {
         // Routes                                                  },
         r10:              {x: 136, y: 32,  w: 8,  h: 8,  name: "Route 10\n& Power Plant"                                     },
         r12:              {x: 136, y: 72,  w: 8,  h: 8,  name: "Route 12 - 15"                                               },
-        r22:              {x: 8,   y: 46,  w: 8,  h: 8,  name: "Route 22"                                                    },
+        r23:              {x: 8,   y: 46,  w: 8,  h: 8,  name: "Route 23"                                                    },
 
         // Important locations
         cerulean_cave:    {x: 96,  y: 16,  w: 8,  h: 8,  name: "Cerulean Cave"                                               },
@@ -1141,11 +1141,11 @@ let rb_decoupled = {
             southexit:                                                   {x: 574, y: 342 },
             southexit_dec:                                               {x: 574, y: 365 },
         },
-        r22: {
-            r22_north:                                                   {x: 168, y: 36, name: "Route 22 - North" },
-            r22_north_dec:                                               {x: 168, y: 59, name: "Route 22 - North" },
-            r22_south:                                                   {x: 128, y: 276, name: "Route 22 - South" },
-            r22_south_dec:                                               {x: 128, y: 299, name: "Route 22 - South" },
+        r23: {
+            r23_north:                                                   {x: 168, y: 36, name: "Route 23 - North" },
+            r23_north_dec:                                               {x: 168, y: 59, name: "Route 23 - North" },
+            r23_south:                                                   {x: 128, y: 276, name: "Route 23 - South" },
+            r23_south_dec:                                               {x: 128, y: 299, name: "Route 23 - South" },
         },
     },
 //    },
