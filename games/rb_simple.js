@@ -609,7 +609,7 @@ let rb_simple = {
         [["frlg_bush",   0], ["frlg_surf",    0], ["frlg_boulder", 0], ["frlg_darkness", 0], ["bike_needed", 0], ["bike_voucher",  0], ["parcel",        0], ["poke_flute", 0],],
         [["card_key",    0], ["secret_key",      0], ["lift_key",    0], ["plant_key",     0], ["mansion_key",0], ["hideout_key", 0], ["safaripass", 0], ["tea",          0]],
         [["gold_teeth",  0], ["silph_scope",   0], ["ss_ticket",    0], ["itemfinder",    0], ["coincase",    0], ["townmap",    0], ["helix",    0], ["pokedoll", 0]],
-        [["frlg_rival", 0], ["fuji", 0],["trade", 0],["pokedex", 0]],
+        [["frlg_rival", 0], ["fuji", 0],["trade", 0],["oaks_aide", 0],["pokedex", 0]],
 
     ],
     progress: [
